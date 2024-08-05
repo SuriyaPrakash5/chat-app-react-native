@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "ChatApp",
+    "slug": "PSapp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/play_store_512.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "height": "100%",
+      "image": "./assets/splash2.png",
+      "backgroundColor": "#E5B8CC"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.suriya_183.PSapp"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {}
+  }
+}
